@@ -102,7 +102,10 @@ nav ul a:hover {
 section {
     background-color: rgb(231, 225, 219);
 }
-
+.main_lower_section {
+    margin : 0px 0px 10px 0px ;
+    padding-bottom: 10px;
+}
 .main_lower_section_heading {
     text-align: center;
     padding-top: 5px;
