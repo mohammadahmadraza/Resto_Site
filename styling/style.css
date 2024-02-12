@@ -41,6 +41,10 @@ nav ul a:hover {
     cursor: pointer;
 }
 
+.navbar_icons:hover {
+    transform: translate(2px);
+    transition: transform 0.5s ease-in;
+}
 /* end of styling for header */
 
 /* start of styling for main upper section */
